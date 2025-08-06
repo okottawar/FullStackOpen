@@ -1,4 +1,3 @@
-```
 sequenceDiagram
     participant User
     participant browser as Browser
@@ -38,4 +37,3 @@ sequenceDiagram
     Note right of browser: Browser executes callback function
     Note right of browser: DOM manipulation renders notes list
     Note over User, browser: User sees fully loaded notes page
-```
