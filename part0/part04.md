@@ -39,4 +39,3 @@ sequenceDiagram
     Note right of browser: DOM manipulation renders notes list
     Note over User, browser: User sees fully loaded notes page
 ```
-```
